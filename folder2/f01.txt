@@ -1,5 +1,1 @@
-
 Adding content in f01.txt in second folder in feature branch
-
-Adding content in f01.txt second folder in master branch
-
